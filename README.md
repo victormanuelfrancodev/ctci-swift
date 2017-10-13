@@ -9,3 +9,6 @@
 * [String Compression](https://github.com/safaryari/ctci-swift/blob/master/Arrays%2BStrings/StringCompression.playground/Contents.swift)
 * [Zero Matrix](https://github.com/safaryari/ctci-swift/blob/master/Arrays%2BStrings/ZeroMatrix.playground/Contents.swift) 
 * [String Rotation](https://github.com/safaryari/ctci-swift/blob/master/Arrays%2BStrings/StringRotation.playground/Contents.swift) 
+
+### Linked Lists ### 
+* [Remove Duplicates](https://github.com/safaryari/ctci-swift/blob/master/LinkedLists/RemoveDuplicates.playground/Contents.swift) 
