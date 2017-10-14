@@ -14,3 +14,6 @@
 * [Remove Duplicates](https://github.com/safaryari/ctci-swift/blob/master/LinkedLists/RemoveDuplicates.playground/Contents.swift) 
 * [Return Kth To Last](https://github.com/safaryari/ctci-swift/blob/master/LinkedLists/ReturnKthToLast.playground/Contents.swift)
 * [Delete Middle Node](https://github.com/safaryari/ctci-swift/blob/master/LinkedLists/DeleteMiddleNode.playground/Contents.swift)
+* [Partition](https://github.com/safaryari/ctci-swift/blob/master/LinkedLists/Partition.playground/Contents.swift)
+* [Sum Lists](https://github.com/safaryari/ctci-swift/blob/master/LinkedLists/SumLists.playground/Contents.swift)
+* [Palindrome](https://github.com/safaryari/ctci-swift/blob/master/LinkedLists/Palindrome.playground/Contents.swift)
