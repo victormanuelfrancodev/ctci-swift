@@ -12,3 +12,5 @@
 
 ### Linked Lists ### 
 * [Remove Duplicates](https://github.com/safaryari/ctci-swift/blob/master/LinkedLists/RemoveDuplicates.playground/Contents.swift) 
+* [Return Kth To Last](https://github.com/safaryari/ctci-swift/blob/master/LinkedLists/ReturnKthToLast.playground/Contents.swift)
+* [Delete Middle Node](https://github.com/safaryari/ctci-swift/blob/master/LinkedLists/DeleteMiddleNode.playground/Contents.swift)
