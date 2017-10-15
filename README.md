@@ -17,3 +17,7 @@
 * [Partition](https://github.com/safaryari/ctci-swift/blob/master/LinkedLists/Partition.playground/Contents.swift)
 * [Sum Lists](https://github.com/safaryari/ctci-swift/blob/master/LinkedLists/SumLists.playground/Contents.swift)
 * [Palindrome](https://github.com/safaryari/ctci-swift/blob/master/LinkedLists/Palindrome.playground/Contents.swift)
+* [Intersection](https://github.com/safaryari/ctci-swift/blob/master/LinkedLists/Intersection.playground/Contents.swift)
+* [Loop Detection](https://github.com/safaryari/ctci-swift/blob/master/LinkedLists/LoopDetection.playground/Contents.swift)
+
+### Stacks and Queues ###
