@@ -21,3 +21,6 @@
 * [Loop Detection](https://github.com/safaryari/ctci-swift/blob/master/LinkedLists/LoopDetection.playground/Contents.swift)
 
 ### Stacks and Queues ###
+* [Min Stack](https://github.com/safaryari/ctci-swift/blob/master/Stacks%2BQueues/MinStack.playground/Contents.swift)
+* [Set Of Stacks](https://github.com/safaryari/ctci-swift/blob/master/Stacks%2BQueues/SetOfStacks.playground/Contents.swift)
+* [My Queue](https://github.com/safaryari/ctci-swift/blob/master/Stacks%2BQueues/MyQueue.playground/Contents.swift)
