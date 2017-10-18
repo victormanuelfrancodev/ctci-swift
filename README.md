@@ -23,6 +23,6 @@
 ### Stacks and Queues ###
 * [Min Stack](https://github.com/safaryari/ctci-swift/blob/master/Stacks%2BQueues/MinStack.playground/Contents.swift)
 * [Set Of Stacks](https://github.com/safaryari/ctci-swift/blob/master/Stacks%2BQueues/SetOfStacks.playground/Contents.swift)
-* [My Queue](https://github.com/safaryari/ctci-swift/blob/master/Stacks%2BQueues/MyQueue.playground/Contents.swift)
+* [Queue Via Stacks](https://github.com/safaryari/ctci-swift/blob/master/Stacks%2BQueues/MyQueue.playground/Contents.swift)
 * [Sort Stack](https://github.com/safaryari/ctci-swift/blob/master/Stacks%2BQueues/SortStack.playground/Contents.swift)
 * [Animal Shelter](https://github.com/safaryari/ctci-swift/blob/master/Stacks%2BQueues/AnimalShelter.playground/Contents.swift)
