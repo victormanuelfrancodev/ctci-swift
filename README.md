@@ -26,3 +26,13 @@
 * [Queue Via Stacks](https://github.com/safaryari/ctci-swift/blob/master/Stacks%2BQueues/MyQueue.playground/Contents.swift)
 * [Sort Stack](https://github.com/safaryari/ctci-swift/blob/master/Stacks%2BQueues/SortStack.playground/Contents.swift)
 * [Animal Shelter](https://github.com/safaryari/ctci-swift/blob/master/Stacks%2BQueues/AnimalShelter.playground/Contents.swift)
+
+### Trees and Graphs ### 
+
+### Bit Manipulation ### 
+
+### Math and Logic Puzzles ### 
+
+### Recursion and Dynamic Programming ### 
+
+### Sorting and Searching ###
