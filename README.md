@@ -30,6 +30,7 @@
 ### Trees and Graphs ### 
 
 ### Bit Manipulation ### 
+* [Insertion](https://github.com/safaryari/ctci-swift/blob/master/BitManipulation/Insertion.playground/Contents.swift)
 
 ### Math and Logic Puzzles ### 
 
