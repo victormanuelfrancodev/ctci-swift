@@ -30,4 +30,5 @@
 ### Bit Manipulation ### 
 * [Insertion](https://github.com/safaryari/ctci-swift/blob/master/BitManipulation/Insertion.playground/Contents.swift)
 * [Binary To String](https://github.com/safaryari/ctci-swift/blob/a81dac4a739bb98ad4173a78fa982d1e49e4cd3b/BitManipulation/BinaryToString.playground/Contents.swift)
+* [Next Number](https://github.com/safaryari/ctci-swift/blob/3ba4e2f6c243507b6068f2310580d46c3d4f1374/BitManipulation/NextNumber.playground/Contents.swift)
 * [Conversion](https://github.com/safaryari/ctci-swift/blob/master/BitManipulation/Conversion.playground/Contents.swift)
