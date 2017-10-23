@@ -9,3 +9,5 @@ func convert(num1: Int16, num2: Int16) -> Int {
 }
 
 convert(num1: 0b11101, num2: 0b01111) // returns '2'
+
+
