@@ -33,3 +33,5 @@
 * [Next Number](https://github.com/safaryari/ctci-swift/blob/3ba4e2f6c243507b6068f2310580d46c3d4f1374/BitManipulation/NextNumber.playground/Contents.swift)
 * [Conversion](https://github.com/safaryari/ctci-swift/blob/master/BitManipulation/Conversion.playground/Contents.swift)
 * [Pairwise Swap](https://github.com/safaryari/ctci-swift/blob/master/BitManipulation/PairwiseSwap.playground/Contents.swift)
+
+### Sorting and Searching ### 
