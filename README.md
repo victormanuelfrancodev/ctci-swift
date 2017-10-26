@@ -35,3 +35,4 @@
 * [Pairwise Swap](https://github.com/safaryari/ctci-swift/blob/master/BitManipulation/PairwiseSwap.playground/Contents.swift)
 
 ### Sorting and Searching ### 
+* [Sorted Merge](https://github.com/safaryari/ctci-swift/blob/master/Sorting%2BSearching/SortedMerge.playground/Contents.swift)
