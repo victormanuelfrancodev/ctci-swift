@@ -36,3 +36,4 @@
 
 ### Sorting and Searching ### 
 * [Sorted Merge](https://github.com/safaryari/ctci-swift/blob/master/Sorting%2BSearching/SortedMerge.playground/Contents.swift)
+* [Group Anagrams](https://github.com/safaryari/ctci-swift/blob/master/Sorting%2BSearching/GroupAnagrams.playground/Contents.swift)
