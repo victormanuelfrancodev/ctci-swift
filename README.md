@@ -38,7 +38,7 @@
 * [Sorted Merge](https://github.com/safaryari/ctci-swift/blob/master/Sorting%2BSearching/SortedMerge.playground/Contents.swift)
 * [Group Anagrams](https://github.com/safaryari/ctci-swift/blob/master/Sorting%2BSearching/GroupAnagrams.playground/Contents.swift)
 * [Search In Rotated Array](https://github.com/safaryari/ctci-swift/blob/c02a3e375b4db940d3ef0d3259d2f585b6918d2a/Sorting%2BSearching/SearchInRotatedArray.playground/Contents.swift)
-
+* [Sparse Search](https://github.com/safaryari/ctci-swift/blob/master/Sorting%2BSearching/SparseSearch.playground/Contents.swift) 
 
 
 
