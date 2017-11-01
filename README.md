@@ -38,10 +38,10 @@
 * [Sorted Merge](https://github.com/safaryari/ctci-swift/blob/master/Sorting%2BSearching/SortedMerge.playground/Contents.swift)
 * [Group Anagrams](https://github.com/safaryari/ctci-swift/blob/master/Sorting%2BSearching/GroupAnagrams.playground/Contents.swift)
 * [Search In Rotated Array](https://github.com/safaryari/ctci-swift/blob/c02a3e375b4db940d3ef0d3259d2f585b6918d2a/Sorting%2BSearching/SearchInRotatedArray.playground/Contents.swift)
+* [Sorted Search, No Size](https://github.com/safaryari/ctci-swift/blob/master/Sorting%2BSearching/SortedSearchNoSize.playground/Contents.swift)
 * [Sparse Search](https://github.com/safaryari/ctci-swift/blob/master/Sorting%2BSearching/SparseSearch.playground/Contents.swift) 
 * [Sorted Matrix Search](https://github.com/safaryari/ctci-swift/blob/master/Sorting%2BSearching/SortedMatrixSearch.playground/Contents.swift)
 * [Rank From Stream](https://github.com/safaryari/ctci-swift/blob/6e38feddf4d85fbc4e1db00a4a8e569cc2e1fe05/Sorting%2BSearching/RankFromStream.playground/Contents.swift)
-
 
 
 
