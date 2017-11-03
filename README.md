@@ -42,6 +42,6 @@
 * [Sparse Search](https://github.com/safaryari/ctci-swift/blob/master/Sorting%2BSearching/SparseSearch.playground/Contents.swift) 
 * [Sorted Matrix Search](https://github.com/safaryari/ctci-swift/blob/master/Sorting%2BSearching/SortedMatrixSearch.playground/Contents.swift)
 * [Rank From Stream](https://github.com/safaryari/ctci-swift/blob/6e38feddf4d85fbc4e1db00a4a8e569cc2e1fe05/Sorting%2BSearching/RankFromStream.playground/Contents.swift)
-
+* [Peaks And Valleys](https://github.com/Afani97/ctci-swift/blob/master/Sorting%2BSearching/PeaksAndValleys.playground/Contents.swift) 
 
 
