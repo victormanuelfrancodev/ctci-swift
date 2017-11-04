@@ -34,6 +34,9 @@
 * [Conversion](https://github.com/safaryari/ctci-swift/blob/master/BitManipulation/Conversion.playground/Contents.swift)
 * [Pairwise Swap](https://github.com/safaryari/ctci-swift/blob/master/BitManipulation/PairwiseSwap.playground/Contents.swift)
 
+### Recursion and Dynamic Programming ### 
+* [Recursive Multiply](https://github.com/Afani97/ctci-swift/blob/8c1c33e64958e18287a3f774167a58e2e2e21394/Recursion%2BDP/RecursiveMultiply.playground/Contents.swift)
+
 ### Sorting and Searching ### 
 * [Sorted Merge](https://github.com/safaryari/ctci-swift/blob/master/Sorting%2BSearching/SortedMerge.playground/Contents.swift)
 * [Group Anagrams](https://github.com/safaryari/ctci-swift/blob/master/Sorting%2BSearching/GroupAnagrams.playground/Contents.swift)
