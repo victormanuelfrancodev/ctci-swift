@@ -35,6 +35,7 @@
 * [Pairwise Swap](https://github.com/safaryari/ctci-swift/blob/master/BitManipulation/PairwiseSwap.playground/Contents.swift)
 
 ### Recursion and Dynamic Programming ### 
+* [Magic Index](https://github.com/Afani97/ctci-swift/blob/master/Recursion%2BDP/MagicIndex.playground/Contents.swift)
 * [Recursive Multiply](https://github.com/Afani97/ctci-swift/blob/8c1c33e64958e18287a3f774167a58e2e2e21394/Recursion%2BDP/RecursiveMultiply.playground/Contents.swift)
 
 ### Sorting and Searching ### 
