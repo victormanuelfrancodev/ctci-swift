@@ -37,6 +37,7 @@
 ### Recursion and Dynamic Programming ### 
 * [Triple Step](https://github.com/Afani97/ctci-swift/blob/master/Recursion%2BDP/TripleStep.playground/Contents.swift)
 * [Magic Index](https://github.com/Afani97/ctci-swift/blob/master/Recursion%2BDP/MagicIndex.playground/Contents.swift)
+* [Power Set](https://github.com/Afani97/ctci-swift/blob/master/Recursion%2BDP/PowerSet.playground/Contents.swift)
 * [Recursive Multiply](https://github.com/Afani97/ctci-swift/blob/8c1c33e64958e18287a3f774167a58e2e2e21394/Recursion%2BDP/RecursiveMultiply.playground/Contents.swift)
 * [Towers Of Hanoi](https://github.com/Afani97/ctci-swift/blob/de7d476c54685810146e173bad9b1fc5952e9dd3/Recursion%2BDP/TowersOfHanoi.playground/Contents.swift)
 * [Coins](https://github.com/Afani97/ctci-swift/blob/77315a529b937abeb091ec36d2a0c0fa5b032e79/Recursion%2BDP/Coins.playground/Contents.swift)
