@@ -18,3 +18,9 @@ func perms(of array: String) -> [[String]] {
 }
 
 print(perms(of: "hello"))
+
+//prints
+/*
+ [[], ["e"], ["o"], ["e", "o"], ["l"], ["e", "l"], ["o", "l"], ["e", "o", "l"], ["h"], ["e", "h"], ["o", "h"], ["e", "o", "h"], ["l", "h"], ["e", "l", "h"], ["o", "l", "h"], ["e", "o", "l", "h"]]
+
+ */
