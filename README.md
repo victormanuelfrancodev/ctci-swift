@@ -1,4 +1,4 @@
-# Cracking The Coding Interview - Swift Answers
+# Cracking The Coding Interview - Swift Solutions
 
 ### Arrays and Strings ###
 * [Is Unique](https://github.com/safaryari/ctci-swift/blob/master/Arrays%2BStrings/IsUnique.playground/Contents.swift)
