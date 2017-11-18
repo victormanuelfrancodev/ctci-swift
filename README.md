@@ -27,6 +27,9 @@
 * [Sort Stack](https://github.com/safaryari/ctci-swift/blob/master/Stacks%2BQueues/SortStack.playground/Contents.swift)
 * [Animal Shelter](https://github.com/safaryari/ctci-swift/blob/master/Stacks%2BQueues/AnimalShelter.playground/Contents.swift)
 
+### Trees and Graphs 
+* [Minimal Height](https://github.com/Afani97/ctci-swift/blob/master/Trees%26Graphs/MinimalTree.playground/Contents.swift) 
+
 ### Bit Manipulation ### 
 * [Insertion](https://github.com/safaryari/ctci-swift/blob/master/BitManipulation/Insertion.playground/Contents.swift)
 * [Binary To String](https://github.com/safaryari/ctci-swift/blob/a81dac4a739bb98ad4173a78fa982d1e49e4cd3b/BitManipulation/BinaryToString.playground/Contents.swift)
