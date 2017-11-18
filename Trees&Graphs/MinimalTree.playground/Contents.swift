@@ -19,7 +19,7 @@ public class Tree {
     func minimalTree(array: [Int]) {
         if let n = minimize(array, 0, array.count-1) { root = n }
     }
-    // takes an array and turns it into a BST which garantees the minimal height for a sorted array.
+    // Takes an array and turns it into a BST which guarantees the minimal height for a sorted array.
     func minimize(_ array: [Int], _ low: Int, _ high: Int) -> Node? {
         if high < low { return nil }
         let mid = (low + high) / 2
