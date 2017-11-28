@@ -29,6 +29,7 @@
 
 ### Trees and Graphs 
 * [Minimal Height](https://github.com/Afani97/ctci-swift/blob/master/Trees%26Graphs/MinimalTree.playground/Contents.swift) 
+* [Validate BST](https://github.com/Afani97/ctci-swift/blob/master/Trees%26Graphs/ValidateBST.playground/Contents.swift)
 
 ### Bit Manipulation ### 
 * [Insertion](https://github.com/safaryari/ctci-swift/blob/master/BitManipulation/Insertion.playground/Contents.swift)
