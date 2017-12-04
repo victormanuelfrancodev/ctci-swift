@@ -28,6 +28,7 @@
 * [Animal Shelter](https://github.com/safaryari/ctci-swift/blob/master/Stacks%2BQueues/AnimalShelter.playground/Contents.swift)
 
 ### Trees and Graphs 
+* [Route Between Nodes](https://github.com/Afani97/ctci-swift/blob/master/Trees%26Graphs/RouteBetweenNodes.playground/Contents.swift)
 * [Minimal Height](https://github.com/Afani97/ctci-swift/blob/master/Trees%26Graphs/MinimalTree.playground/Contents.swift) 
 * [Validate BST](https://github.com/Afani97/ctci-swift/blob/master/Trees%26Graphs/ValidateBST.playground/Contents.swift)
 
