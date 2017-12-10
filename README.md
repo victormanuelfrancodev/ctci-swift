@@ -32,6 +32,7 @@
 * [Minimal Height](https://github.com/Afani97/ctci-swift/blob/master/Trees%2BGraphs/MinimalTree.playground/Contents.swift) 
 * [Validate BST](https://github.com/Afani97/ctci-swift/blob/master/Trees%2BGraphs/ValidateBST.playground/Contents.swift)
 * [Successor](https://github.com/Afani97/ctci-swift/blob/master/Trees%2BGraphs/Successor.playground/Contents.swift)
+* [Find Common Ancestor](https://github.com/Afani97/ctci-swift/blob/master/Trees%2BGraphs/FindCommonAncestor.playground/Contents.swift)
 * [Random Node](https://github.com/Afani97/ctci-swift/blob/master/Trees%2BGraphs/RandomNode.playground/Contents.swift)
 
 ### Bit Manipulation ### 
